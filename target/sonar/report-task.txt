@@ -1,0 +1,6 @@
+projectKey=CD_Sonar_P1
+serverUrl=http://localhost:9000
+serverVersion=10.4.1.88267
+dashboardUrl=http://localhost:9000/dashboard?id=CD_Sonar_P1
+ceTaskId=c7860b29-3159-40b7-b862-fb00dd945dc1
+ceTaskUrl=http://localhost:9000/api/ce/task?id=c7860b29-3159-40b7-b862-fb00dd945dc1
